@@ -3,7 +3,7 @@ import torch
 import numpy as np
 import pickle
 import re
-from nltk.corpus import stopwords
+# from nltk.corpus import stopwords
 import torch.nn as nn
 
 # Load the vocabulary
